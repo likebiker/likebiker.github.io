@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# 韦澄
 
-You can use the [editor on GitHub](https://github.com/likebiker/likebiker.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>韦澄</h1>
+      <p><b>学历：本科</b></p>
+      <p><b>学校：大连民族大学计科院软件工程专业</b></p>
+      <p><b>邮箱：1033403498@qq.com</b></p>
+      <p><b>家乡：广西南宁市宾阳县</b></p>
+      <p><b>目前居住地：辽宁省大连市金州区叠翠花乡15号楼</b></p>
+    </td>
+    <td width="25%">
+      <img src="/photo.jpg" width="100%">
+    </td>
+  </tr>
+</table>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2>个人经历</h2>
 
-### Markdown
+```markdow
+<h2>在校参与项目（2018-2019）：</h2>
+ <p><b>    1.银行业务系统</b></p>
+ <p><b>    2.HIS医疗系统</b></p>
+ <p><b>    3.酒店管理系统</b></p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h2>项目中角色：</h2>
+ <p><b>    1.前端开发</b></p>
+ <p><b>    2.数据库设计</b></p>
+ 
+<h2>迪卡侬大连红星海店 Cycle部门销售助理</h2>
+ <p><b>2017.7 – 2019.8</b></p>
+ <p><b> <p><b>负责Cycle部门的日常销售和售后服务。 </b></p>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<h2>迪卡侬大连红星海店 Water部门运动负责人</h2>
+ <p><b>2019.9 - 2020</b></p>
+ <p><b>负责Water部门的运营，以达到去年同期营业额为目标，对货架陈列进行逻辑和外观调整，对部门兼职员工进行培训管理，根据节假日影响的客流量，策划适当的活动以吸引客流，根据产品销量制定相应的营销策略</b></p>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/likebiker/likebiker.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
