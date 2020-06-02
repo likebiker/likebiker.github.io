@@ -2,13 +2,11 @@
 
 <table border="0">
   <tr>
-    <td width="60%">
+    <td width="65%">
       <h1>韦澄</h1>
       <p><b>学历：本科</b></p>
       <p><b>学校：大连民族大学计科院软件工程专业</b></p>
       <p><b>邮箱：1033403498@qq.com</b></p>
-      <p><b>家乡：广西南宁市宾阳县</b></p>
-      <p><b>目前居住地：辽宁省大连市金州区叠翠花乡15号楼</b></p>
       <p><b>爱好：骑行，滑雪，动漫，游戏</b></p>
       <p><b>技能</b></p>
       <p><b>1.	熟悉HTML, CSS</b></p>
@@ -21,7 +19,7 @@
 
     </td>
     
-    <td width="40%">
+    <td width="35%">
       <img src="/photo1.jpg" width="100%">
       <img src="/photo2.jpg" width="100%">
     </td>
