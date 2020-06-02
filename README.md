@@ -20,7 +20,8 @@
     </td>
     
     <td width="25%">
-      <img src="/photo.jpg" width="100%">
+      <img src="/photo1.jpg" width="100%">
+      <img src="/photo2.jpg" width="100%">
     </td>
     
   </tr>
