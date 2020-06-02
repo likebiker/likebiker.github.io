@@ -2,7 +2,7 @@
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="60%">
       <h1>韦澄</h1>
       <p><b>学历：本科</b></p>
       <p><b>学校：大连民族大学计科院软件工程专业</b></p>
@@ -21,7 +21,7 @@
 
     </td>
     
-    <td width="25%">
+    <td width="40%">
       <img src="/photo1.jpg" width="100%">
       <img src="/photo2.jpg" width="100%">
     </td>
